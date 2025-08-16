@@ -15,7 +15,7 @@ env:
   MADS: false
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: RAX3000M&K2P
+  FIRMWARE_TAG: mips
   TZ: Asia/Shanghai
 
 jobs:
